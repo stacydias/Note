@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notetop.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\notetop.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notelist.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\notelist.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_note.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\create_note.png"
+    },
+    {
+        "merged": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    }
+]

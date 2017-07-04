@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 39,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 55,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 55,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 47,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 47,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 52,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 51,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 45,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 45,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 51,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 51,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 42,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 887
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 892,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "C:\\Users\\mahe\\Documents\\ATProject\\Note_2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
